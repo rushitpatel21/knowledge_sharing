@@ -5,8 +5,8 @@ Modern article management platform with AI content generation and revision track
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/articlehub.git
-cd articlehub
+git clone https://github.com/rushitpatel21/knowledge_sharing.git
+cd knowledge_sharing
 npm install
 npm run dev
 ```
