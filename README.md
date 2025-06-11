@@ -1,12 +1,31 @@
-# React + Vite
+# ArticleHub 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern article management platform with AI content generation and revision tracking.
 
-Currently, two official plugins are available:
+## Quick Start
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+git clone https://github.com/yourusername/articlehub.git
+cd articlehub
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+Open [http://localhost:3000](http://localhost:3000)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- ✍️ Create & edit articles
+- 🤖 AI content generation  
+- 📝 Revision history
+- 🔐 User authentication
+
+## Tech Stack
+
+React • Redux • Tailwind CSS • Lucide Icons
+
+## Scripts
+
+- `npm run dev` - Development server
+- `npm run build` - Production build
+- `npm run preview` - Preview build
